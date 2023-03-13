@@ -49,9 +49,9 @@ GET :
 walkthrough:
 - config folder contains the configurations of mongoose
 
--controllers contains all the code which executes for a particular route
+- controllers contains all the code which executes for a particular route
 
--models folder has  productschema 
+- models folder has  productschema 
 
 - routes folder has all the routes
 
